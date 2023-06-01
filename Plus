@@ -114,7 +114,7 @@ local themeStyles = {
     },
     BlueBurst = {
         SchemeColor = Color3.fromRGB(0, 213, 255),
-        Background = Color3.fromRGB(0, 13, 179),
+        Background = Color3.fromRGB(0, 136, 255),
         Header = Color3.fromRGB(0, 13, 255),
         TextColor = Color3.fromRGB(0, 98, 255),
         ElementColor = Color3.fromRGB(0, 255, 217)
