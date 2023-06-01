@@ -106,11 +106,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Synapse = {
-        SchemeColor = Color3.fromRGB(46, 48, 43),
-        Background = Color3.fromRGB(13, 15, 12),
-        Header = Color3.fromRGB(36, 38, 35),
-        TextColor = Color3.fromRGB(152, 99, 53),
-        ElementColor = Color3.fromRGB(24, 24, 24)
+        SchemeColor = Color3.fromRGB(0, 161, 255),
+        Background = Color3.fromRGB(0, 113, 179),
+        Header = Color3.fromRGB(0, 242, 255),
+        TextColor = Color3.fromRGB(0, 98, 255),
+        ElementColor = Color3.fromRGB(0, 255, 217)
     },
         BlueBurst = {
         SchemeColor = Color3.fromRGB(0, 161, 255),
