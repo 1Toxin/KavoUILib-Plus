@@ -119,8 +119,15 @@ local themeStyles = {
         TextColor = Color3.fromRGB(0, 74, 179),
         ElementColor = Color3.fromRGB(0, 105, 255)
     },
+    Hub = {
+        SchemeColor = Color3.fromRGB(0, 255, 240),
+        Background = Color3.fromRGB(0, 187, 240),
+        Header = Color3.fromRGB(0, 178, 255),
+        TextColor = Color3.fromRGB(0, 74, 179),
+        ElementColor = Color3.fromRGB(0, 105, 255)
+    },
     Serpent = {
-        SchemeColor = Color3.fromRGB(0, 166, 58),
+        SchemeColor = Color3.fromRGB(255, 255, 255),
         Background = Color3.fromRGB(31, 41, 43),
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
@@ -164,6 +171,8 @@ function Kavo.CreateLib(kavName, themeList)
         themeList = themeStyles.LightTheme
     elseif themeList == "BloodTheme" then
         themeList = themeStyles.BloodTheme
+    elseif themeList == "Hub" then
+    	themeList = themeStyles.Hub
     elseif themeList == "GrapeTheme" then
         themeList = themeStyles.GrapeTheme
     elseif themeList == "Ocean" then
