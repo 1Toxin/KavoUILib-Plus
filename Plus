@@ -112,13 +112,13 @@ local themeStyles = {
         TextColor = Color3.fromRGB(152, 99, 53),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
-    BlueBurst = {
+        BlueBurst = {
         SchemeColor = Color3.fromRGB(0, 161, 255),
         Background = Color3.fromRGB(0, 113, 179),
         Header = Color3.fromRGB(0, 242, 255),
         TextColor = Color3.fromRGB(0, 98, 255),
         ElementColor = Color3.fromRGB(0, 255, 217)
-    },
+    }
     Serpent = {
         SchemeColor = Color3.fromRGB(0, 166, 58),
         Background = Color3.fromRGB(31, 41, 43),
